@@ -1,0 +1,69 @@
+.card{
+    width: 500px;
+    border: 3px solid rgb(64, 135, 154);
+    border-radius: 9px;
+    background-color: #fff;
+    border-color: rgb(192, 187, 187);
+    margin-left: 400px;
+    
+    
+  
+
+  
+}
+.header{
+    height: 100px;
+    width: 500px;
+    background-color: rgb(64, 135, 154);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+   
+}
+
+img.user{
+    height: 70px;
+    width: 60px;
+    position: fixed;
+    top: 50px;
+}
+
+img{
+    height: 30px;
+    width: 20px;
+    margin: 15px;
+}
+.place{
+display: flex;
+}
+#seatle{
+flex: 1;
+}
+
+a{
+    padding-top: 20px;
+    color:rgb(64, 135, 154);
+    text-align:left;
+
+}
+.gear{
+align-items: center;
+}
+
+
+#seatle{
+justify-content: center;
+align-items: flex-start;
+} 
+
+.edit{
+    display: flex;
+ 
+}
+.margin{
+    margin: 15px;
+}
+
+/* body{
+    display: flex;
+    justify-content: center;
+} */
